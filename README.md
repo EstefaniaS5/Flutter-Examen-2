@@ -60,10 +60,10 @@ flutter run
 ```
 
 ## Capturas de pantalla
-<img width="1274" height="2574" alt="WhatsApp Image 2026-06-01 at 22 52 19" src="https://github.com/user-attachments/assets/52dad510-a659-495b-b46f-e4c3494734af" />
+<img src="https://github.com/user-attachments/assets/52dad510-a659-495b-b46f-e4c3494734af" width="250">
 
-<img width="1280" height="2613" alt="WhatsApp Image 2026-06-01 at 22 52 19 (1)" src="https://github.com/user-attachments/assets/4d9b599f-5b2f-4d11-86e8-6149b37d7342" />
+<img src="https://github.com/user-attachments/assets/4d9b599f-5b2f-4d11-86e8-6149b37d7342" width="250">
 
-<img width="1280" height="2597" alt="WhatsApp Image 2026-06-01 at 22 52 20" src="https://github.com/user-attachments/assets/74d8053e-0ac2-4bbd-9e9c-8a38b8101c99" />
+<img src="https://github.com/user-attachments/assets/74d8053e-0ac2-4bbd-9e9c-8a38b8101c99" width="250">
 
-<img width="1278" height="2443" alt="WhatsApp Image 2026-06-01 at 22 52 20 (1)" src="https://github.com/user-attachments/assets/bc3b0ccf-0461-492a-9b57-aaf378ddc73a" />
+<img src="https://github.com/user-attachments/assets/bc3b0ccf-0461-492a-9b57-aaf378ddc73a" width="250">
